@@ -9,4 +9,4 @@ quay.io/prometheus/node-exporter:v1.5.0
 registry.cn-hangzhou.aliyuncs.com/ialso/prometheus-adapter:v0.10.0
 quay.io/prometheus-operator/prometheus-operator:v0.62.0
 quay.io/prometheus/prometheus:v2.41.0
-
+nginx
