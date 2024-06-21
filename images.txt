@@ -1,11 +1,1 @@
-registry.cn-beijing.aliyuncs.com/xxhf/busybox:latest
-registry.cn-beijing.aliyuncs.com/xxhf/centos:7
-registry.cn-beijing.aliyuncs.com/xxhf/ubuntu:22.04
-registry.cn-beijing.aliyuncs.com/xxhf/nginx:1.22.1
-registry.cn-beijing.aliyuncs.com/xxhf/mysql:5.7
-registry.cn-beijing.aliyuncs.com/xxhf/wordpress:php7.4
-registry.cn-beijing.aliyuncs.com/xxhf/registry:2
-registry.cn-beijing.aliyuncs.com/xxhf/metrics-server:v0.6.4
-registry.cn-beijing.aliyuncs.com/xxhf/rollouts-demo:green
-registry.cn-beijing.aliyuncs.com/xxhf/rollouts-demo:blue
-registry.cn-beijing.aliyuncs.com/xxhf/node-exporter:1.6.1
+frooodle/s-pdf:latest-lite
