@@ -1,1 +1,1 @@
-frooodle/s-pdf:latest-lite
+corentinth/it-tools:latest
