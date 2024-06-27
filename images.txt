@@ -1,1 +1,4 @@
-fogforest/yesplaymusic
+golang:1.20
+alpine:3.18
+
+
