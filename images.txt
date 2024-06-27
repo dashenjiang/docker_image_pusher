@@ -1,3 +1,5 @@
-gcr.io/distroless/static-debian11
+iojs:onbuild
+
+
 
 
