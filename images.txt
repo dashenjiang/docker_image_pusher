@@ -1,5 +1,4 @@
-registry.k8s.io/ingress-nginx/controller:v1.6.3
-registry.k8s.io/ingress-nginx/kube-webhook-certgen:v20220916-gd32f8c343
+redis:5-alpine
 
 
 
