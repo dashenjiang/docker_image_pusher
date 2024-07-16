@@ -1,4 +1,2 @@
-reg.xinxianghf.cloud/library/rollouts-demo:blue
-
-reg.xinxianghf.cloud/library/rollouts-demo:green
+registry.k8s.io/metrics-server/metrics-server:v0.7.1
 
