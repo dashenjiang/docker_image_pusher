@@ -1,3 +1,5 @@
-docker.elastic.co/elasticsearch/elasticsearch:7.17.3
-docker.elastic.co/beats/filebeat:7.15.1
-docker.elastic.co/kibana/kibana:7.17.3
+registry.cn-shanghai.aliyuncs.com/labring/kubernetes:v1.25.15
+registry.cn-shanghai.aliyuncs.com/labring/helm:v3.8.2
+registry.cn-shanghai.aliyuncs.com/labring/calico:v3.24.1
+
+
