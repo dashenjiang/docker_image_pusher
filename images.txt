@@ -1,4 +1,9 @@
-ccr.ccs.tencentyun.com/tkeimages/csi-tencentcloud-cos-launcher:v2.0.2
+registry.aliyuncs.com/it00021hot/cephcsi:v3.4.0
+registry.aliyuncs.com/it00021hot/csi-provisioner:v2.2.2
+registry.aliyuncs.com/it00021hot/csi-resizer:v1.2.0
+registry.aliyuncs.com/it00021hot/csi-snapshotter:v4.1.1
+registry.aliyuncs.com/it00021hot/csi-attacher:v3.2.1
+registry.aliyuncs.com/it00021hot/csi-node-driver-registrar:v2.2.0
 
 
 
