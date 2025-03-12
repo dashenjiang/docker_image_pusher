@@ -1,3 +1,3 @@
-gitlab/gitlab-ce:latest
+nacos/nacos-server:latest
 
 
