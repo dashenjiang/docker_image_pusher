@@ -1,2 +1,1 @@
-grafana/alloy:latest
-grafana/loki:latest
+grafana/promtail:3.2.1
