@@ -1,1 +1,2 @@
-flashcatcloud/nightingale:latest
+grafana/alloy:latest
+grafana/loki:latest
