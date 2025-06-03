@@ -1,1 +1,1 @@
-node:18-alpine
+minio/minio:RELEASE.2021-01-30T00-20-58Z
