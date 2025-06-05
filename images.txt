@@ -1,1 +1,2 @@
-redis:6.2.16
+us-central1-docker.pkg.dev/keephq/keep/keep-ui:0.44.13
+us-central1-docker.pkg.dev/keephq/keep/keep-api:0.44.13
