@@ -1,1 +1,6 @@
-ubuntu:24.04
+getsentry/sentry:23.6.2
+getsentry/snuba:23.6.2
+getsentry/relay:23.6.2
+getsentry/symbolicator:23.6.2
+getsentry/vroom:23.6.2
+
