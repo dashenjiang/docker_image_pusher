@@ -1,7 +1,7 @@
 
 getsentry/sentry:24.8.0
 getsentry/snuba:24.8.0
-etsentry/relay:24.8.0
+getsentry/relay:24.8.0
 getsentry/symbolicator:24.8.0
 getsentry/vroom:24.8.0
 
