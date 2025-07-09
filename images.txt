@@ -1,1 +1,1 @@
-percona/mongodb_exporter:0.39-amd64
+percona/mongodb_exporter:0.40 
