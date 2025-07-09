@@ -1,2 +1,3 @@
 
-hibiken/asynqmon:latest
+prom/mysqld-exporter
+oliver006/redis_exporter:v1.50.0
