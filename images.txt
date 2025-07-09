@@ -1,3 +1,1 @@
-
-prom/mysqld-exporter
-oliver006/redis_exporter:v1.50.0
+percona/mongodb_exporter:0.39-amd64
