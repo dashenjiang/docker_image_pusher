@@ -1,1 +1,1 @@
-percona/mongodb_exporter:0.40 
+danielqsj/kafka-exporter:latest
