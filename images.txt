@@ -1,1 +1,1 @@
-danielqsj/kafka-exporter:latest
+redis:6.2.19
