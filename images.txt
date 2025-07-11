@@ -1,1 +1,1 @@
-bakins/php-fpm-exporter
+hipages/php-fpm_exporter:2.2.0
