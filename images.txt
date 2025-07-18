@@ -1,1 +1,1 @@
-hipages/php-fpm_exporter:2.2.0
+nginx:1.26.2
