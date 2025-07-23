@@ -1,1 +1,1 @@
-vozlt/nginx-vts:latest
+grafana/alloy:latest
