@@ -1,1 +1,1 @@
-grafana/alloy:latest
+consul:1.4.0
