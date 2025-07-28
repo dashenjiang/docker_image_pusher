@@ -1,7 +1,7 @@
-docker.io/istio/pilot:1.23.0          # 控制平面核心组件
-docker.io/istio/proxyv2:1.23.0        # 数据平面代理
-docker.io/istio/proxyv2:1.23.0        # 对应 {{ .ProxyImage }} 变量
-docker.io/istio/proxyv2_init:1.23.0   # 初始化容器镜像（对应 proxy_init.image）
-docker.io/istio/gateway:1.23.0        # Ingress/Egress 网关
-docker.io/istio/operator:1.23.0       # 操作器镜像
-busybox:1.28                          # 辅助工具镜像
+docker.io/istio/pilot:1.23.0
+docker.io/istio/proxyv2:1.23.0
+docker.io/istio/proxyv2:1.23.0
+docker.io/istio/proxyv2_init:1.23.0
+docker.io/istio/gateway:1.23.0
+docker.io/istio/operator:1.23.0
+busybox:1.28
