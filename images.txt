@@ -1,7 +1,9 @@
-docker.io/istio/pilot:1.23.0
-docker.io/istio/proxyv2:1.23.0
-docker.io/istio/proxyv2:1.23.0
-docker.io/istio/proxyv2_init:1.23.0
-docker.io/istio/gateway:1.23.0
-docker.io/istio/operator:1.23.0
-busybox:1.28
+docker.io/jaegertracing/all-in-one:1.58
+openzipkin/zipkin-slim:3.4.0
+apache/skywalking-oap-server:9.7.0
+apache/skywalking-ui:9.1.0
+quay.io/kiali/kiali:v1.87
+docker.io/grafana/loki:3.0.0
+ghcr.io/prometheus-operator/prometheus-config-reloader:v0.73.2
+prom/prometheus:v2.52.0
+docker.io/grafana/grafana:11.0.0
