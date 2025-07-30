@@ -1,3 +1,1 @@
-docker.io/istio/examples-bookinfo-mongodb:1.20.1
-docker.io/istio/examples-bookinfo-mysqldb:1.20.1
-docker.io/istio/examples-bookinfo-details-v2:1.20.1
+gitlab/gitlab-runner:v17.9
