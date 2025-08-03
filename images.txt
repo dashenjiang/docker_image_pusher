@@ -1,1 +1,2 @@
-python:3.6.8-slim
+docker:24.0.5
+alpine:latest
