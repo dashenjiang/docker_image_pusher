@@ -1,2 +1,3 @@
-docker:24.0.5-dind
-alpine:3.18
+openjdk:8-jre-slim
+maven:3.8-openjdk-8
+node:16-alpine
