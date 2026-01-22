@@ -1,3 +1,6 @@
-docker.io/flannel/flannel-cni-plugin:v1.2.0
-quay.io/tigera/operator:v1.28.5
-quay.io/tigera/operator:v1.30.11
+calico/cni:v3.24.6-18-ge762ccd51f2b
+calico/cni:v3.26.5-2-g1e5537b7768f
+calico/node:v3.24.6-18-ge762ccd51f2b
+calico/node:v3.26.5-2-g1e5537b7768f
+calico/kube-controllers:v3.24.6-18-ge762ccd51f2b
+calico/kube-controllers:v3.26.5-2-g1e5537b7768f
