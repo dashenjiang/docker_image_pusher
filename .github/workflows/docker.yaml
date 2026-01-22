@@ -137,9 +137,13 @@ jobs:
             fi
             
             # 将@sha256:等字符删除
-            image_name_tag="${image_name_tag%%@*}"
-            new_image="$ALIYUN_REGISTRY/$ALIYUN_NAME_SPACE/$platform_prefix$name_space_prefix$image_name_tag"
-            echo "docker tag $image $new_image"
+            image_name_tag="${name_space}_${image_name_tag%%@*}"
+            new_image_tag_1=$(echo "$image_name_tag" | awk -F':' '{print $1}')
+            new_image_tag_2=$(echo "$image_name_tag" | awk -F':' '{print $2}')
+            # echo "image_name_tag: ${image_name_tag}"
+            new_image="$ALIYUN_REGISTRY/$ALIYUN_NAME_SPACE/$name_space:${new_image_tag_1}_${new_image_tag_2}"
+            # new_image="$ALIYUN_REGISTRY/$ALIYUN_NAME_SPACE/$platform_prefix$name_space_prefix$image_name_tag"
+            echo "NEW_IMAGES: ${new_image}"
             docker tag $image $new_image
             echo "docker push $new_image"
             docker push $new_image
