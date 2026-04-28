@@ -1,2 +1,2 @@
-quay.io/tigera/operator:v1.30.11
-quay.io/tigera/operator:v1.28.5
+docker pull redis:latest
+docker pull mysql:latest
