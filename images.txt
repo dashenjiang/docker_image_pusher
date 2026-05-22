@@ -1,1 +1,1 @@
-calico/windows-upgrade:v3.26.5-windows-20H2
+calico/windows-upgrade:v3.26.5
