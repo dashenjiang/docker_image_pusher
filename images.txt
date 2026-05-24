@@ -1,1 +1,2 @@
-calico/windows-upgrade:v3.26.5
+docker.io/calico/node:v3.27.4
+postfinance/kubelet-csr-approver:latest
