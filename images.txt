@@ -1,2 +1,2 @@
---platform=linux/amd64 mysql
---platform=linux/arm64 mysql
+--platform=linux/amd64 debian:bookworm-slim
+--platform=linux/arm64 debian:bookworm-slim
