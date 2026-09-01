@@ -1,3 +1,2 @@
-quay.io/thanos/thanos:v0.36.1
-quay.io/prometheus-operator/prometheus-config-reloader:v0.77.1
-quay.io/prometheus-operator/admission-webhook:v0.77.1
+--platform=linux/amd64 mysql
+--platform=linux/arm64 mysql
