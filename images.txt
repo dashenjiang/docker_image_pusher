@@ -1,2 +1,8 @@
---platform=linux/amd64 garethflowers/ftp-server:latest
---platform=linux/arm64 garethflowers/ftp-server:latest
+--platform=linux/amd64 docker.io/library/mysql:8.0.40
+--platform=linux/arm64 docker.io/library/mysql:8.0.40
+--platform=linux/amd64 docker.io/library/mysql:8.4.3
+--platform=linux/arm64 docker.io/library/mysql:8.4.3
+--platform=linux/amd64 docker.io/library/redis:7.2.7
+--platform=linux/arm64 docker.io/library/redis:7.2.7
+--platform=linux/amd64 docker.io/library/redis:7.4.1
+--platform=linux/arm64 docker.io/library/redis:7.4.1
