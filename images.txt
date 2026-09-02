@@ -1,2 +1,2 @@
---platform=linux/amd64 debian:bookworm-slim
---platform=linux/arm64 debian:bookworm-slim
+--platform=linux/amd64 garethflowers/ftp-server:latest
+--platform=linux/arm64 garethflowers/ftp-server:latest
