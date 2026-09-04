@@ -1,2 +1,12 @@
---platform=linux/amd64 postfinance/kubelet-csr-approver:v1.2.15
---platform=linux/arm64 postfinance/kubelet-csr-approver:v1.2.15
+--platform=linux/amd64 dyrnq/kube-webhook-certgen:v20221220-controller-v1.5.1-58-g787ea74b6
+--platform=linux/arm64 dyrnq/kube-webhook-certgen:v20221220-controller-v1.5.1-58-g787ea74b6
+--platform=linux/amd64 dyrnq/kube-webhook-certgen:v1.5.1
+--platform=linux/arm64 dyrnq/kube-webhook-certgen:v1.5.1
+--platform=linux/amd64 dyrnq/kube-webhook-certgen:v1.5.4
+--platform=linux/arm64 dyrnq/kube-webhook-certgen:v1.5.4
+--platform=linux/amd64 dyrnq/kube-webhook-certgen:v1.6.5
+--platform=linux/arm64 dyrnq/kube-webhook-certgen:v1.6.5
+--platform=linux/amd64 dyrnq/kube-webhook-certgen:v1.6.9
+--platform=linux/arm64 dyrnq/kube-webhook-certgen:v1.6.9
+--platform=linux/amd64 jkroepke/kube-webhook-certgen:1.8.8
+--platform=linux/arm64 jkroepke/kube-webhook-certgen:1.8.8
