@@ -388,9 +388,9 @@
 --platform=linux/arm64 victoriametrics/vmauth:v1.150.0
 --platform=linux/amd64 victoriametrics/vminsert:v1.150.0-cluster
 --platform=linux/arm64 victoriametrics/vminsert:v1.150.0-cluster
---platform=linux/amd64 victoriametrics/vmselect:v1.150.0
---platform=linux/arm64 victoriametrics/vmselect:v1.150.0
---platform=linux/amd64 victoriametrics/vmsingle:v1.150.0
---platform=linux/arm64 victoriametrics/vmsingle:v1.150.0
---platform=linux/amd64 victoriametrics/vmstorage:v1.150.0
---platform=linux/arm64 victoriametrics/vmstorage:v1.150.0
+--platform=linux/amd64 victoriametrics/vmselect:v1.151.0-cluster
+--platform=linux/arm64 victoriametrics/vmselect:v1.151.0-cluster
+--platform=linux/amd64 victoriametrics/victoria-metrics:v1.150.0
+--platform=linux/arm64 victoriametrics/victoria-metrics:v1.150.0
+--platform=linux/amd64 victoriametrics/vmstorage:v1.150.0-cluster
+--platform=linux/arm64 victoriametrics/vmstorage:v1.150.0-cluster
