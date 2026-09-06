@@ -102,8 +102,6 @@
 --platform=linux/arm64 grafana/grafana:13.1.1
 --platform=linux/amd64 kiwigrid/k8s-sidecar:1.22.0
 --platform=linux/arm64 kiwigrid/k8s-sidecar:1.22.0
---platform=linux/amd64 jkroepke/kube-webhook-certgen:1.8.8
---platform=linux/arm64 jkroepke/kube-webhook-certgen:1.8.8
 --platform=linux/amd64 registry.k8s.io/kube-apiserver:v1.22.17
 --platform=linux/arm64 registry.k8s.io/kube-apiserver:v1.22.17
 --platform=linux/amd64 registry.k8s.io/kube-apiserver:v1.23.17
