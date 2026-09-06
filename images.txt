@@ -388,8 +388,8 @@
 --platform=linux/arm64 victoriametrics/vmalert:v1.150.0
 --platform=linux/amd64 victoriametrics/vmauth:v1.150.0
 --platform=linux/arm64 victoriametrics/vmauth:v1.150.0
---platform=linux/amd64 victoriametrics/vminsert:v1.150.0
---platform=linux/arm64 victoriametrics/vminsert:v1.150.0
+--platform=linux/amd64 victoriametrics/vminsert:v1.150.0-cluster
+--platform=linux/arm64 victoriametrics/vminsert:v1.150.0-cluster
 --platform=linux/amd64 victoriametrics/vmselect:v1.150.0
 --platform=linux/arm64 victoriametrics/vmselect:v1.150.0
 --platform=linux/amd64 victoriametrics/vmsingle:v1.150.0
