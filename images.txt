@@ -110,3 +110,5 @@
 --platform=linux/arm64 quay.io/calico/typha:v3.31.7
 --platform=linux/amd64 quay.io/calico/typha:v3.32.2
 --platform=linux/arm64 quay.io/calico/typha:v3.32.2
+--platform=linux/amd64 postfinance/kubelet-csr-approver:v1.2.15
+--platform=linux/arm64 postfinance/kubelet-csr-approver:v1.2.15
