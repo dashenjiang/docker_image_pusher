@@ -1,3 +1,7 @@
+--platform=linux/amd64 busybox:latest
+--platform=linux/arm64 busybox:latest
+--platform=linux/amd64 busybox:1.38.0
+--platform=linux/arm64 busybox:1.38.0
 --platform=linux/amd64 plndr/kube-vip:v0.5.12
 --platform=linux/arm64 plndr/kube-vip:v0.5.12
 --platform=linux/amd64 plndr/kube-vip:v0.6.4
