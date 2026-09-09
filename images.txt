@@ -16,3 +16,5 @@
 --platform=linux/arm64 plndr/kube-vip:v1.2.0
 --platform=linux/amd64 plndr/kube-vip:v1.2.3
 --platform=linux/arm64 plndr/kube-vip:v1.2.3
+--platform=linux/amd64 docker.io/rancher/local-path-provisioner:v0.0.37
+--platform=linux/arm64 docker.io/rancher/local-path-provisioner:v0.0.37
