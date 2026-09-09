@@ -1,6 +1,2 @@
---platform=linux/amd64 rancher/local-path-provisioner:v0.0.28
---platform=linux/arm64 rancher/local-path-provisioner:v0.0.28
---platform=linux/amd64 victoriametrics/operator:v0.74.0
---platform=linux/arm64 victoriametrics/operator:v0.74.0
---platform=linux/amd64 victoriametrics/operator:config-reloader-v0.74.0
---platform=linux/arm64 victoriametrics/operator:config-reloader-v0.74.0
+--platform=linux/amd64 victoriametrics/vlagent:v1.52.0
+--platform=linux/arm64 victoriametrics/vlagent:v1.52.0
