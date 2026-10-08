@@ -1,5 +1,5 @@
 
---platform=linux/amd64 plndr/kube-vip:v1.2.0-rc.0
---platform=linux/arm64 plndr/kube-vip:v1.2.0-rc.0
+--platform=linux/amd64 docker.io/library/mysql:9.7.0
+--platform=linux/arm64 docker.io/library/mysql:9.7.0
 
 
