@@ -1,5 +1,5 @@
 
---platform=linux/amd64 docker.io/library/mysql:9.7.0
---platform=linux/arm64 docker.io/library/mysql:9.7.0
+--platform=linux/amd64 docker.io/library/mysql:9.7
+--platform=linux/arm64 docker.io/library/mysql:9.7
 
 
