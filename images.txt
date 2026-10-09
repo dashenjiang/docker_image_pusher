@@ -1,7 +1,6 @@
 
 --platform=linux/amd64 rancher/kubectl:v1.25.16
 --platform=linux/arm64 rancher/kubectl:v1.25.16
-
 --platform=linux/amd64 rancher/kubectl:v1.26.15
 --platform=linux/arm64 rancher/kubectl:v1.26.15
 
