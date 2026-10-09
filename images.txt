@@ -1,5 +1,34 @@
 
---platform=linux/amd64 redis:8.6.2
---platform=linux/arm64 redis:8.6.2
+--platform=linux/amd64 rancher/kubectl:v1.25.16
+--platform=linux/arm64 rancher/kubectl:v1.25.16
 
+--platform=linux/amd64 rancher/kubectl:v1.26.15
+--platform=linux/arm64 rancher/kubectl:v1.26.15
 
+--platform=linux/amd64 rancher/kubectl:v1.27.16
+--platform=linux/arm64 rancher/kubectl:v1.27.16
+--platform=linux/amd64 rancher/kubectl:v1.28.15
+--platform=linux/arm64 rancher/kubectl:v1.28.15
+
+--platform=linux/amd64 rancher/kubectl:v1.29.15
+--platform=linux/arm64 rancher/kubectl:v1.29.15
+
+--platform=linux/amd64 rancher/kubectl:v1.30.14
+--platform=linux/arm64 rancher/kubectl:v1.30.14
+
+--platform=linux/amd64 rancher/kubectl:v1.31.14
+--platform=linux/arm64 rancher/kubectl:v1.31.14
+
+--platform=linux/amd64 rancher/kubectl:v1.32.13
+--platform=linux/arm64 rancher/kubectl:v1.32.13
+
+--platform=linux/amd64 rancher/kubectl:v1.33.13
+--platform=linux/arm64 rancher/kubectl:v1.33.13
+
+--platform=linux/amd64 rancher/kubectl:v1.34.11
+--platform=linux/arm64 rancher/kubectl:v1.34.11
+
+--platform=linux/amd64 rancher/kubectl:v1.35.8
+--platform=linux/arm64 rancher/kubectl:v1.35.8
+--platform=linux/amd64 rancher/kubectl:v1.36.4
+--platform=linux/arm64 rancher/kubectl:v1.36.4
